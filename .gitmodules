@@ -1,0 +1,3 @@
+[submodule "mainproject"]
+	path = mainproject
+	url = git@github.com:WeerayootQ/mainproject.git
